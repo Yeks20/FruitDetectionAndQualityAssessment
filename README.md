@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/fruit-identification-classification.git
+[git clone https://github.com/yourusername/fruit-identification-classification.git](https://github.com/Christina3489/FruitDetectionAndQualityAssessment)
 cd fruit-identification-classification
 Create a virtual environment and activate it:
 
